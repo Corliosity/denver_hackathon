@@ -1,0 +1,23 @@
+<Alloy>
+	<Tab id='home' title='Home'  icon="KS_nav_ui.png">
+		<Window id='myHome' class="container">
+			<ImageView id="image" image="/AIH_Logo.png" />
+			<View id='health'>
+				<ImageView id="healthImage" image="/YellowArrow.png" />
+			</View>
+			<Label id='over'>You Are 79% healthy</Label>
+			<View id='nav'>
+				<Button class='rowOne' id='chart' />
+				<Button class='rowOne' id='doc' />
+				<Button class='rowOne' id='sick' />
+				<Button class='rowTwo' id='set' title='Settings' />
+			</View>
+			<TableView id="table">
+            <TableViewSection id="sectionFruit" headerTitle="Recomendations">
+                <TableViewRow title="Eating Right"/>
+                <TableViewRow title="Join a workout group"/>
+            </TableViewSection>
+           	</TableView>
+		</Window>
+	</Tab>
+</Alloy>

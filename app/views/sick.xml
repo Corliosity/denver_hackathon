@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id='sick' title='Symptoms' class="container">
+		<TableView id="table">
+			<SearchBar id='search' platform='android,ios' />
+			<Require src='sickRow' />
+        </TableView>
+	</Window>
+</Alloy>

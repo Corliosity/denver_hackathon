@@ -1,0 +1,65 @@
+".container": {
+	backgroundColor: "#60B2FF",
+	navBarHidden:	false,
+},
+'#you': {
+	left: '5dp',
+	top: '5dp'
+},
+'#nam': {
+	right: '10dp',
+	top: '5dp'
+},
+'#ov': {
+	right: '10dp',
+	top: '20dp'
+},
+'#current': {
+	top: '40dp',
+	right: '10dp'
+},
+'#we':{
+	top: '60dp',
+	right: '10dp'
+},
+'#he': {
+	top: '80dp',
+	right: '10dp'
+},
+'#more': {
+	top: '100dp',
+	right: '10dp'
+}
+'#act': {
+	left: '10dp',
+	top: '150dp'
+},
+'#sym': {
+	left: '30dp',
+	top:'175dp'
+},
+'#sym2': {
+	left: '30dp',
+	top:'195dp'
+},
+'#sym3': {
+	left: '30dp',
+	top:'215dp'
+},
+'#table': {
+	top: '275dp'
+},
+"#rowView": {
+	layout: 'vertical',
+	height: '65dp'
+},
+"#title": {
+	left: '2dp',
+	font: {
+		fontWeight: 'bold',
+		fontSize: '20px'
+	}
+},
+"#subTitle": {
+	left: '30dp'
+}

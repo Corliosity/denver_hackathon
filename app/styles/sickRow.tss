@@ -1,0 +1,21 @@
+".container": {
+	backgroundColor: "white"
+},
+"#rowView": {
+	layout: 'vertical',
+	height: '50dp'
+},
+"#title": {
+	left: '10dp',
+	font: {
+		fontWeight: 'bold',
+		fontSize: '20px'
+	}
+},
+"#subTitle": {
+	left: '15dp',
+	font: {
+		fontSize: '8px'
+	},
+	visible: false
+}

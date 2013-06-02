@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id='doctor' title='Find Doctors' class="container">
+		<TableView id="table">
+			<SearchBar id="search" platform='android,ios' />
+			<Require src='tableRow' />
+		</TableView>
+	</Window>
+</Alloy>

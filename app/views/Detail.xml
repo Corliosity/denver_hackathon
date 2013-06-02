@@ -1,0 +1,10 @@
+<Alloy>
+	<Window id='win' class="container">
+		<ImageView id='docImg' />
+		<Label id='docName' />
+		<Label id='prac' />
+		<Label id='docPhone' />
+		<Label id='docE' />
+		<ImageView id='face' class='social' image='/social.jpg' />
+	</Window>
+</Alloy>

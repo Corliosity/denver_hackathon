@@ -1,0 +1,39 @@
+".container": {
+	backgroundColor: "white"
+},
+'#docImg': {
+	left: '5dp',
+	top: '5dp'
+},
+'#docName': {
+	right: '10dp',
+	top: '5dp'
+},
+'#prac': {
+	right: '10dp',
+	top: '30dp'
+},
+'#docPhone': {
+	right: '10dp',
+	top: '50dp'
+},
+'#docE': {
+	right: '10dp',
+	top: '70dp'
+},
+'.social': {
+	top: '175dp',
+},
+'#face': {
+	left: '20dp'
+},
+'#klout': {
+	left: '155dp',
+	width: '128dp',
+	height: '128dp'
+},
+'#tweet': {
+	left: '265dp',
+	width: '128dp',
+	height: '128dp'
+}

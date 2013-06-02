@@ -1,0 +1,60 @@
+".container": {
+	backgroundColor:	"#60B2FF",
+	navBarHidden:		true,
+	tabBarHidden:		true
+},
+"ImageView": {
+	top:	0
+},
+"#health": {
+	width:	'80%',
+	height:	'50dp',
+	top:	'75dp'
+},
+'#healthBar': {
+	width:	'80%',
+	backgroundColor: 'yellow',
+	left:	0
+},
+'.rowOne': {
+	font: {
+		fontSize: '9px'
+	}
+},
+'#chart': {
+	width:	'80dp',
+	height:	'80dp',
+	left:	'30dp',
+	top: 	'175dp',
+	backgroundImage: '/Chart.png',
+	accessibilityHint: 'Click for patient Chart'
+},
+'#doc': {
+	width:	'80dp',
+	height:	'80dp',
+	left:	'130dp',
+	top: 	'175dp',
+	backgroundImage: '/SmallerDoctor.png',
+	accessibilityHint: 'Click for Local Doctors'
+},
+'#sick': {
+	width:	'80dp',
+	height:	'80dp',
+	left:	'230dp',
+	top: 	'175dp',
+	backgroundImage: '/Symptoms.png',
+	accessibilityHint: 'Click for Symptom Identifier'
+},
+'#set': {
+	top: '225dp',
+	height: '50dp',
+	width:	'100dp',
+	visible: false
+},
+'#table': {
+	top:	'325dp'
+},
+'#over': {
+	top: '125dp'
+}
+

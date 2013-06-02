@@ -1,0 +1,6 @@
+".container": {
+	backgroundColor: '#60B2FF'
+},
+"Window": {
+	backgroundColor: '#60B2FF'
+}

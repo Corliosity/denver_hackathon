@@ -1,0 +1,25 @@
+<Alloy>
+	<Window id='win2' class="container" title='Your Health Chart'>
+		<ImageView id='you' image='/photo.jpg' />
+		<Label id='nam'>Andrew Corliss</Label>
+		<Label id='ov'>Overall Health: 90%</Label>
+		<Label id='current'>Your Current Information</Label>
+		<Label id='we'>Weight: 165 lbs.</Label>
+		<Label id='he'>Height: 5 foot 11 inches</Label>
+		<Label id='more'>More Information:</Label>
+		<Label id='act'>Your Current Symptoms:</Label>
+		<Label id='sym' />
+		<Label id='sym2' />
+		<Label id='sym3' />
+		<TableView id='table'>
+			<TableViewSection id="sectionFruit" headerTitle="Possible Conditions">
+				<TableViewRow>
+					<View id='rowView'>
+						<Label id='title'>Anxiety</Label>
+						<Label id='subTitle'>Not Serious or Life Threatening</Label>
+					</View>
+				</TableViewRow>
+			</TableViewSection>
+		</TableView>
+	</Window>
+</Alloy>

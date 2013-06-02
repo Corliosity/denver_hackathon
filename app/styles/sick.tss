@@ -1,0 +1,10 @@
+".container": {
+	backgroundColor: "#60B2FF",
+	navBarHidden: false
+},
+'#search': {
+	top: 0,
+	filterAttribute: 'title'
+},
+'#table':{
+}
